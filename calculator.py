@@ -1,0 +1,12 @@
+num1 = int(input("Enter the first number : "))
+num2 = int(input("Enter the second number : "))
+
+addition = num1 + num2
+subtraction = num1 - num2
+product = num1 * num2
+quotient = num1/num2
+
+print(addition)
+print(subtraction)
+print(product)
+print(quotient)
